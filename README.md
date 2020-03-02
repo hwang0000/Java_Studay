@@ -1,2 +1,2 @@
-# Java_Studay
+# Java_Study
 java入门学习
